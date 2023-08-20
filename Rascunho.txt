@@ -1,0 +1,22 @@
+Cronstrução de API com Flask
+Desenvolvimento e condtrução de implementação de aplicação
+Melhorias de habilidade na construção de API
+Integração com banco de dados
+
+
+1 - Criar um ambiente virtual
+2 - Testar com o Postman
+
+
+API - É um lugar para disponibilizar recursos e funcionalidades.
+Objetivo de criar uma API é para disponibilizar as requesições de consultas, criação e exclusão.
+
+
+3 - URL Base - Lugar aonde é feito as requesições - localhost
+4 - EndPoints - 
+- localhost/livros(GET)
+- localhost/livros/id (GET)
+-localhost/livro/id (PUT)
+-localhost/livro/id (DELETE)
+5 - Quais recursos - livros
+
