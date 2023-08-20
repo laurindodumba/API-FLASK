@@ -13,3 +13,10 @@ Recentemente comecei a minha de estudos para aprender como  construir uma API us
 
 -> Aprendendo a pesquisar e ler código de outras pessoas desenvolvedoras e tentar seguir os passos delas.
 
+
+
+PARA VALIDAR OS METÓDOS USEI O POSTMAN SEGUE IMAGEM PARA VISUALIZAÇÃO DO PROCESSO.
+
+
+![image](https://github.com/laurindodumba/API-FLASK/assets/38964642/688068e9-f5fe-4946-9a13-7a143c4f5c2d)
+
